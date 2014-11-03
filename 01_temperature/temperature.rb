@@ -5,3 +5,4 @@ end
 def ctof(celisus)
 	(celisus * 9/5.0) + 32
 end
+
