@@ -3,8 +3,6 @@ def hello
 end
 
 def greet(name)
-	name = "Alice"
-	puts "Hello #{name}"
+  "Hello, #{name}!"
 end
  		
-greet 		
