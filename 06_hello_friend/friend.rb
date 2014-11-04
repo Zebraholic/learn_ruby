@@ -4,3 +4,4 @@ class Friend
   end
 end
 
+
