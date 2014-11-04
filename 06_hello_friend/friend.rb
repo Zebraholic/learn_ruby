@@ -3,3 +3,4 @@ class Friend
     "Hello #{name}!"
   end
 end
+
